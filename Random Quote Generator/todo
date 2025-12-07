@@ -1,0 +1,132 @@
+2. Random Quote Generator
+Description: Display a random quote from a list every time a button is clicked.
+Concepts Covered:
+Arrays and objects (storing quotes).
+Random number generation.
+Updating the DOM.
+
+To-Do List Ap **********************DONE**************************
+Description: A simple app that allows users to add, delete, and mark tasks as complete.
+Concepts Covered:
+DOM manipulation (adding, removing elements).
+Event handling (listening for click events on buttons).
+Local storage (saving and loading tasks).
+2. Random Quote Generator ****************DONE***************************
+Description: Display a random quote from a list every time a button is clicked.
+Concepts Covered:
+Arrays and objects (storing quotes).
+Random number generation.
+Updating the DOM.
+3. Weather App (Using an API)
+Description: Fetch and display weather information for a user-entered city.
+Concepts Covered:
+Fetch API (making HTTP requests).
+Working with JSON data.
+Error handling.
+4. Currency Converter
+Description: Convert an amount from one currency to another using real-time exchange rates.
+Concepts Covered:
+Fetch API.
+Mathematical calculations.
+User input handling.
+5. Simple Quiz App***********************ALMOST DONE*****************************
+Description: A quiz with multiple-choice questions and a score at the end.
+Concepts Covered:
+Arrays and looping through questions.
+Event listeners for button clicks.
+Conditional logic for scoring.
+6. Digital Clock
+Description: Display a live digital clock that updates every second.
+Concepts Covered:
+Working with the Date object.
+setInterval for updating the time.
+Formatting time strings.
+7. Recipe App (Static)
+Description: A simple page displaying a list of recipes with ingredients and steps.
+Concepts Covered:
+HTML structure for content.
+CSS styling.
+Arrays and object management.
+8. Color Picker Tool
+Description: Allows users to pick a color and see its hex, RGB, and HSL values.
+Concepts Covered:
+Input handling (color inputs).
+Converting color formats.
+DOM updates.
+9. Countdown Timer
+Description: A timer that counts down to a specific date and time.
+Concepts Covered:
+Date objects and calculations.
+setInterval and updating the display.
+Handling time intervals.
+10. Simple Drawing App
+Description: Allows users to draw on a canvas using different colors and brush sizes.
+Concepts Covered:
+HTML5 Canvas API.
+Mouse events.
+Managing drawing states.
+11. Number Guessing Game**********************DONE****************************
+Description: The computer randomly selects a number, and the user has to guess it.
+Concepts Covered:
+Random number generation.
+Conditional logic.
+Handling user input.
+12. Tip Calculator**************************FIRST****************************
+Description: Calculate the tip based on the bill amount and chosen tip percentage.
+Concepts Covered:
+Mathematical operations.
+Form handling.
+Dynamic DOM updates.
+13. Interactive Story Game
+Description: A simple text-based adventure game with multiple choices and endings.
+Concepts Covered:
+Conditional statements.
+Functions to manage game state.
+User input for navigating the story.
+14. Unit Converter*******************************NOW**********************************
+Description: Convert between different units (length, weight, temperature).
+Concepts Covered:
+Handling mathematical operations.
+User input and form handling.
+Using switch cases for different conversions.
+15. Interactive Form Validator
+Description: A form with fields that validate user input (e.g., email, password strength).
+Concepts Covered:
+Form handling.
+Regular expressions.
+Error handling and user feedback.
+16. Flashcards App
+Description: A simple app that displays a question on one side and the answer on the other.
+Concepts Covered:
+Arrays and object management.
+Event handling.
+UI updates and transitions.
+17. BMI Calculator
+Description: Calculate and display the BMI based on weight and height.
+Concepts Covered:
+Mathematical calculations.
+Form input and validation.
+Displaying results.
+18. Simple Music Player
+Description: Play, pause, and navigate through a list of audio tracks.
+Concepts Covered:
+HTML5 Audio API.
+Handling events like play, pause, and ended.
+Managing playlists.
+19. Responsive Navigation Menu
+Description: A mobile-friendly navigation menu that shows/hides on button click.
+Concepts Covered:
+CSS for responsive design.
+Event listeners for toggling classes.
+DOM manipulation for animations.
+20. Memory Card Game
+Description: A game where you flip cards and try to match pairs.
+Concepts Covered:
+Arrays and shuffling.
+State management.
+Event handling and UI updates.
+How to Choose:
+Start with Simpler Projects: Choose projects that focus on basic concepts like DOM manipulation and event handling (e.g., To-Do List, Tip Calculator).
+Move to Intermediate Projects: Once comfortable, try projects involving APIs or more complex logic (e.g., Weather App, Quiz App).
+Work on Your Game Idea: With some practice, you'll be ready to tackle your game project, combining what you've learned.
+Choose one from the list, and I can guide you through the process!

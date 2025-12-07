@@ -1,0 +1,10 @@
+#= > take two input 
+    = > make the table unresposive for a sec while keeping the on the table
+= > compare if they are the same
+    => if the are the same 
+        => show the images on the table
+        => remove the on the main list
+    => if the are not the same 
+        => clear the table
+        => run again
+     

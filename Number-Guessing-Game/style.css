@@ -1,0 +1,57 @@
+body {
+    color: black;
+    font-weight: 700;
+    font-family: Arial, sans-serif;
+    background-color: rgb(63, 63, 248);
+    height: 100vh; /* Using vh to ensure full viewport height */
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    background-color: rgb(17, 17, 147);
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: 700;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    cursor: pointer;
+
+}
+
+button:hover {
+    background-color: rgb(10, 10, 120); /* Added hover effect */
+}
+
+.js-random-quote {
+    background-color: rgb(48, 48, 255);
+    padding: 25px;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: none;
+    color: white;
+    margin: 20px 0; /* Changed margin to vertical for spacing */
+}
+
+p {
+    padding: 10px;
+    font-size: 18px;
+    color: white;
+    font-weight: 500;
+}
+
+.centered-div {
+    text-align: center;
+    padding: 20px;
+    border: 2px solid #333;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: 100%;
+    max-width: 600px; /* Limit the width for better readability */
+    background-color: rgba(255, 255, 255, 0.1); /* Slight transparent background */
+}

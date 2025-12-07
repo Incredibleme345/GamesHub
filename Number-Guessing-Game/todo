@@ -1,0 +1,6 @@
+Number Guessing Game
+Description: The computer randomly selects a number, and the user has to guess it.
+Concepts Covered:
+Random number generation.
+Conditional logic.
+Handling user input.

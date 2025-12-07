@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quize Game</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+</head>
+<body>
+    <div class="main-content">
+        <div>
+            <h1>
+                Quiz On Computer
+            </h1>
+        </div>
+
+        <div class="content">
+            <div class="page-displayed">
+                <p class="page-number" id="pageNumeber">1 / 1</p>
+            </div>
+            <div class="question-div">
+                <p class="question-text" id="question">
+                   
+                </p>
+            </div>
+            <div class="answers">
+                <button class="btn" id="firstOption" onclick="option(this.id)"></button>
+                <button class="btn" id="secondOption" onclick="option(this.id)"></button>
+                <button class="btn" id="thirdOption" onclick="option(this.id)"></button>
+                <button class="btn" id="forthOption" onclick="option(this.id)"></button>
+                <button class="next" id="next">Next</button>
+            </div>
+
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,122 @@
+const url = [
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "What programming language was GitHub written in?",
+        "correct_answer": "Ruby",
+        "incorrect_answers": [
+            "JavaScript",
+            "Python",
+            "Lua"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "What is the domain name for the country Tuvalu?",
+        "correct_answer": ".tv",
+        "incorrect_answers": [
+            ".tu",
+            ".tt",
+            ".tl"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "The C programming language was created by this American computer scientist. ",
+        "correct_answer": "Dennis Ritchie",
+        "incorrect_answers": [
+            "Tim Berners Lee",
+            "al-Khwārizmī",
+            "Willis Ware"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "How many kilobytes in one gigabyte (in decimal)?",
+        "correct_answer": "1000000",
+        "incorrect_answers": [
+            "1024",
+            "1000",
+            "1048576"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:",
+        "correct_answer": "HD Graphics 500",
+        "incorrect_answers": [
+            "HD Graphics 700 ",
+            "HD Graphics 600",
+            "HD Graphics 7000"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "In web design, what does CSS stand for?",
+        "correct_answer": "Cascading Style Sheet",
+        "incorrect_answers": [
+            "Counter Strike: Source",
+            "Corrective Style Sheet",
+            "Computer Style Sheet"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?",
+        "correct_answer": "Apple",
+        "incorrect_answers": [
+            "Microsoft",
+            "Atari",
+            "Commodore"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "What amount of bits commonly equals one byte?",
+        "correct_answer": "8",
+        "incorrect_answers": [
+            "1",
+            "2",
+            "64"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "When Gmail first launched, how much storage did it provide for your email?",
+        "correct_answer": "1GB",
+        "incorrect_answers": [
+            "512MB",
+            "5GB",
+            "Unlimited"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science: Computers",
+        "question": "In computing, what does MIDI stand for?",
+        "correct_answer": "Musical Instrument Digital Interface",
+        "incorrect_answers": [
+            "Musical Interface of Digital Instruments",
+            "Modular Interface of Digital Instruments",
+            "Musical Instrument Data Interface"
+        ]
+    }
+]

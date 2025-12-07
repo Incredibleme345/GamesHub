@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tic Tac Toe</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+</head>
+
+<body>
+    <div class="pop-up-box" id="popUpbox">
+        <P id="winner"></P>
+        <p>Do You Want To Play Again</p>
+        <div class="choose-buttons">
+            <button class="play-button" id="playButton" onclick="playAgain()">Play</button>
+            <button class="quit-button" id="quitButton">Quit</button>
+        </div>
+    </div>
+    
+            
+        <div class="centered-div" id="mainContainer">
+            <h1>Tic-Tac-Toe</h1>
+            <div class="display-info">                
+                <div>
+                    <div class="score">Score</div>
+                    <div id="scoreForBlue" class="score-for-blue">Blue: 0</div>
+                    <div id="scoreForRed" class="score-for-red">Red: 0</div>
+                </div>
+                <div>
+                    <button class="start-button" id='restartButton'onclick='restartGame()'>Reset</button>
+                </div>
+            </div>
+
+
+            <table id="myTable">
+                <tr>
+                    <td id="1" onclick="pressed(this.id)"></td>
+                    <td id="2" onclick="pressed(this.id)"></td>
+                    <td id="3" onclick="pressed(this.id)"></td>
+                </tr>
+                <tr>
+                    <td id="4" onclick="pressed(this.id)"></td>
+                    <td id="5" onclick="pressed(this.id)"></td>
+                    <td id="6" onclick="pressed(this.id)"></td>
+                </tr>
+                <tr>
+                    <td id="7" onclick="pressed(this.id)"></td>
+                    <td id="8" onclick="pressed(this.id)"></td>
+                    <td id="9" onclick="pressed(this.id)"></td>
+                </tr>
+            </table>
+        </div>
+    
+
+
+</body>
+</html>
+

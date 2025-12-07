@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Guessing Game</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <div class="pop-up-box" id="popUpbox">
+            <p id="attempts"></p>
+            <p>Do You Want To Play Again</p>
+
+            <div class="choose-buttons">
+                <button class="play-button" id="playButton" onclick="playAgain()">Play</button>
+                <button class="quit-button" id="quitButton">Quit</button>
+            </div>
+        </div>
+        
+
+        <div class="centered-div">
+            
+
+            <table id="myTable">
+                <tr>
+                    <td id="0" onclick="pressed(this.id)"></td>
+                    <td id="1" onclick="pressed(this.id)"></td>
+                    <td id="2" onclick="pressed(this.id)"></td>
+                    <td id="3" onclick="pressed(this.id)"></td>
+                </tr>
+                <tr>
+                    <td id="4" onclick="pressed(this.id)"></td>
+                    <td id="5" onclick="pressed(this.id)"></td>
+                    <td id="6" onclick="pressed(this.id)"></td>
+                    <td id="7" onclick="pressed(this.id)"></td>
+                </tr>
+                <tr>
+                    <td id="8" onclick="pressed(this.id)"></td>
+                    <td id="9" onclick="pressed(this.id)"></td>
+                    <td id="10" onclick="pressed(this.id)"></td>
+                    <td id="11" onclick="pressed(this.id)"></td>
+                </tr>
+                <tr>
+                    <td id="12" onclick="pressed(this.id)"></td>
+                    <td id="13" onclick="pressed(this.id)"></td>
+                    <td id="14" onclick="pressed(this.id)"></td>
+                    <td id="15" onclick="pressed(this.id)"></td>
+                </tr>
+                <tr>
+                    <td id="16" onclick="pressed(this.id)"></td>
+                    <td id="17" onclick="pressed(this.id)"></td>
+                    <td id="18" onclick="pressed(this.id)"></td>
+                    <td id="19" onclick="pressed(this.id)"></td>
+                </tr>
+            </table>
+        </div>
+
+        <script defer src="script.js"></script>
+    </body>
+
+</html>

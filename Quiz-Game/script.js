@@ -1,4 +1,4 @@
-const apiUrl = "https://opentdb.com/api.php?amount=10&category=18&difficulty=hard&type=multiple";
+const apiUrl = "https://opentdb.com/api.php?amount=10&category=18&difficulty=easy&type=multiple";
 
 let questionsList = [];
 let currentIndex = 0;
